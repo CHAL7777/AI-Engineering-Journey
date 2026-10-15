@@ -2,14 +2,8 @@
 
 Welcome to my AI Engineering repository! 🚀
 
-I'm a Software Engineering student and Full-Stack Web Developer working toward becoming an **AI Engineer**. This repository documents my journey of learning Artificial Intelligence, Machine Learning, and building practical AI-powered applications.
+I'm a Software Engineering student and Full-Stack Web Developer working toward becoming an **AI Engineer**. This repository documents my journey of learning ML.
 
-My goal is to move beyond theory by writing code, solving problems, experimenting with models, and developing real-world projects.
-
-## 🎯 Goals
-
-- Master Python for AI and Machine Learning.
-- Build a strong foundation in mathematics and statistics for ML.
 - Learn data analysis and visualization.
 - Understand Machine Learning algorithms and model evaluation.
 - Explore Deep Learning and Neural Networks.
