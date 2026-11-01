@@ -44,7 +44,7 @@ My goal is to move beyond theory by writing code, solving problems, experimentin
 - [x] Begin learning Python fundamentals
 - [x] Practice lists, dictionaries, loops, and conditional statements
 - [x] Start learning functions and Object-Oriented Programming
-- [ ] Strengthen Python problem-solving skills
+- [x] Strengthen Python problem-solving skills
 - [ ] Learn NumPy and Pandas
 - [ ] Practice data analysis and visualization
 - [ ] Study mathematics and statistics for Machine Learning
@@ -58,12 +58,12 @@ My goal is to move beyond theory by writing code, solving problems, experimentin
 
 This section will showcase my practical work as I progress.
 
-| Project | Description | Status |
-|---|---|---|
-| Python Fundamentals | Practice with Python basics and problem-solving | In progress |
-| Data Analysis | Explore datasets and extract insights | Planned |
-| Machine Learning | Build predictive models using real datasets | Planned |
-| AI Applications | Develop useful applications powered by AI | Planned |
+| Project             | Description                                     | Status      |
+| ------------------- | ----------------------------------------------- | ----------- |
+| Python Fundamentals | Practice with Python basics and problem-solving | completed   |
+| Data Analysis       | Explore datasets and extract insights           | In progress |
+| Machine Learning    | Build predictive models using real datasets     | Planned     |
+| AI Applications     | Develop useful applications powered by AI       | Planned     |
 
 ## 📈 My Philosophy
 
@@ -81,7 +81,7 @@ I focus on:
 I'm continuously learning, building, and improving my skills in AI Engineering.
 
 - **GitHub:** [@CHAL7777](https://github.com/CHAL7777)
-- **Portfolio:** [chaldev.netlify.app](https://chaldev.netlify.app)
+- **Portfolio:* [chaldev.netlify.app](https://chaldev.vercel.app)
 
 If you're also learning Python, Machine Learning, or AI Engineering, feel free to connect and learn alongside me!
 
