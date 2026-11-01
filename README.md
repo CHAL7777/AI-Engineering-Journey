@@ -81,7 +81,7 @@ I focus on:
 I'm continuously learning, building, and improving my skills in AI Engineering.
 
 - **GitHub:** [@CHAL7777](https://github.com/CHAL7777)
-- **Portfolio:* [chaldev.netlify.app](https://chaldev.vercel.app)
+- *Portfolio:* [chaldev.vercel.app](https://chaldev.vercel.app)
 
 If you're also learning Python, Machine Learning, or AI Engineering, feel free to connect and learn alongside me!
 
